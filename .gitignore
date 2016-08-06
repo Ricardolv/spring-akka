@@ -1,6 +1,4 @@
 target/
-.idea
-.mvn/
-mvnw
-mvnw.cmd
-spring-akka.iml
+*.iml
+*.idea/
+.mvn/*
